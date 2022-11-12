@@ -330,8 +330,6 @@
 -r:"/Users/manojsara/Documents/Desert Scene/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll"
 -r:"/Users/manojsara/Documents/Desert Scene/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -r:"/Users/manojsara/Documents/Desert Scene/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
--r:"Library/Bee/artifacts/200b0aE.dag/com.unity.postprocessing.Editor.ref.dll"
--r:"Library/Bee/artifacts/200b0aE.dag/com.unity.postprocessing.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/PPv2URPConverters.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Burst.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Burst.ref.dll"

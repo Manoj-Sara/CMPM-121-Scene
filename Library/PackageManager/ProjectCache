@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638038361790000000
-    m_Hash: 4026363575
+      ticks: 638038372210000000
+    m_Hash: 341340849
   m_LockFileStatus:
     m_FilePath: /Users/manojsara/Documents/Desert Scene/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638038361790000000
-    m_Hash: 1408118529
+      ticks: 638038372210000000
+    m_Hash: 4158299651
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -476,88 +476,6 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 1.2.5
-    nextVersion: 
-- packageId: com.unity.postprocessing@2.0.3-preview
-  testable: 0
-  isDirectDependency: 1
-  version: 2.0.3-preview
-  source: 1
-  resolvedPath: /Users/manojsara/Documents/Desert Scene/Library/PackageCache/com.unity.postprocessing@2.0.3-preview
-  assetPath: Packages/com.unity.postprocessing
-  name: com.unity.postprocessing
-  displayName: 
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: Unity postprocessing
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 0.1.7
-    - 0.1.8
-    - 2.0.0-beta
-    - 2.0.1-beta
-    - 2.0.2-preview
-    - 2.0.3-preview
-    - 2.0.5-preview
-    - 2.0.7-preview
-    - 2.0.8-preview
-    - 2.0.9-preview
-    - 2.0.10-preview
-    - 2.0.11-preview
-    - 2.0.12-preview
-    - 2.0.13-preview
-    - 2.0.14-preview
-    - 2.0.15-preview
-    - 2.0.16-preview
-    - 2.0.17-preview
-    - 2.1.0
-    - 2.1.1
-    - 2.1.2
-    - 2.1.3
-    - 2.1.4
-    - 2.1.5
-    - 2.1.6
-    - 2.1.7
-    - 2.2.1
-    - 2.2.2
-    - 2.3.0
-    - 3.0.1
-    - 3.0.3
-    - 3.1.0
-    - 3.1.1
-    - 3.2.0
-    - 3.2.1
-    - 3.2.2
-    compatible:
-    - 3.2.2
-    verified: 3.2.2
-  dependencies: []
-  resolvedDependencies: []
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 636898901610000000
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 3.2.2
     nextVersion: 
 - packageId: com.unity.render-pipelines.universal@12.1.7
   testable: 0
